@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,10 +38,10 @@
 			<td>
 				<input type="checkbox" name="book" value="book">book
 				<input type="checkbox" name="music" value="book">music
-				
-			</td>
+            </td>
 		</tr>
 	</table>
 	
 </form>
 </body>
+</html>
