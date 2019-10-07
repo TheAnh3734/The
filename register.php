@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -94,5 +94,4 @@
 	
 </form>
 </body>
->>>>>>> 44a5f475558aade47268bf56a52b167802b2aaeb
 </html>
