@@ -31,7 +31,7 @@
 		    'gender' => $gender,
 		    'fav' => $fav
 		];
-		$stmt =  $pdo->prepare("INSERT INTO registercourse(studentname, course, dob,gender,fav) VALUES (:name,:course,:dob,:gender,:fav)");	
+		$stmt =  $pdo->prepare("INSERT INTO registercouse(studentname, course, dob,gender,fav) VALUES (:name,:course,:dob,:gender,:fav)");	
 		$stmt->execute($data);
 	 ?>
 	 <h2>Thank you <?php echo $name?>  for registering 
